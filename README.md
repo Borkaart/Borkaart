@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Borkaart
-- 👀 I’m interested in music, and development :)
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @PauloBorkart
+- 👀 I’m interested in music and development :)
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
