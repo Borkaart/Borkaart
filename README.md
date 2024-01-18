@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PauloBorkart
+- 👋 Hi, I’m Paulo
 - 👀 I’m interested in music and development :)
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on BackEnd Projects
