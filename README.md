@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Paulo
-- 👀 I’m interested in music and development :)
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on BackEnd Projects
-- 📫 How to reach me: https://www.linkedin.com/in/paulo-henrique-dos-anjos-8b61a9170/    --    Instagram: @PauloBorkart
+👋 Olá, sou Paulo Henrique dos Anjos
+💻 Desenvolvedor focado em Back-end
+🚀 Tecnologias: Java, Python e JavaScript
+📫 Contato: linkedin.com/in/paulo-henrique-dos-anjos/
+
 
 <!---
 Borkaart/Borkaart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
