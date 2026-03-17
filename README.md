@@ -1,39 +1,62 @@
-# 👋 Olá, eu sou o Paulo Henrique! 🚀
+# Hi, I'm Paulo Henrique 👋
 
-💻 **Desenvolvedor Java Full Stack & Python** 📍 Focado em construir aplicações escaláveis e interfaces modernas.  
-🎯 Atualmente aprimorando conhecimentos em **Spring Boot, Segurança e Cloud**.
+Backend Developer focused on Java, Python, and cloud-based systems.
 
----
-
-## 🛠️ No meu "Cinto de Utilidades"
-
-### ☕ Back-end & Core
-- **Java:** Spring Boot (MVC, Data JPA, Security), Hibernate, Maven.
-- **Python:** Flask, Django, Automação de tarefas.
-- **Testes:** JUnit 5, Pytest.
-
-### 🎨 Front-end & UI
-- **Thymeleaf:** Renderização dinâmica no servidor.
-- **Tailwind CSS:** Interfaces responsivas e modernas.
-- **HTML5/CSS3:** Estrutura e estilização clássica.
-
-### 🗄️ Infra & Banco de Dados
-- **Bancos:** PostgreSQL, MySQL, H2 (In-memory).
-- **Ferramentas:** Git, GitHub, Docker (básico), Postman/Swagger.
+I have a background in IT infrastructure, technical support, and system operations in corporate environments.  
+Currently building backend applications and improving my skills in Spring Boot, cloud architecture, and modern web development.
 
 ---
 
-## 📘 Projetos Recém-Saídos do Forno 🛠️
+## 💻 Tech Stack
 
-| Projeto | Descrição | Tech Stack |
-| :--- | :--- | :--- |
-| [**TaskMaster**](https://github.com/Borkaart/taskmaster) | Gerenciador de tarefas com status de prioridade dinâmico. | Java, Spring, Tailwind |
-| [**URL Shortener**](https://github.com/Borkaart/url-shortener) | Encurtador de links com lógica de redirecionamento. | Java, Spring, JPA |
-| [**Santander Coders**](https://github.com/Borkaart/SantanderCoders) | API robusta focada em arquitetura e boas práticas. | Java, Spring Boot |
+Backend
+- Java (Spring Boot, Spring Security, Spring Data JPA)
+- Python (Flask, Django)
+
+Frontend
+- React
+- Thymeleaf
+- HTML / CSS
+- Tailwind CSS
+
+Cloud & Tools
+- AWS
+- Docker (basic)
+- Git / GitHub
+- Postman / Swagger
+
+Databases
+- PostgreSQL
+- MySQL
+- H2
+
+Testing
+- JUnit 5
+- Pytest
 
 ---
 
-## 📊 Estatísticas
+## 📂 Featured Projects
+
+### TravelApp
+Full stack travel planning application with itinerary management and expense tracking.
+
+Backend: https://github.com/Borkaart/travelapp-spring-jwt  
+Frontend: https://github.com/Borkaart/travelapp-frontend
+
+### URL Shortener API
+REST API that generates shortened links and handles redirection.
+
+https://github.com/Borkaart/url-shortener-java
+
+### TaskMaster
+Task management backend service with persistent database storage.
+
+https://github.com/Borkaart/taskmaster
+
+---
+
+## 📊 Statistics
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Borkaart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borkaart&layout=compact&langs_count=7&theme=dracula"/>
@@ -41,11 +64,13 @@
 
 ---
 
-## 📫 Vamos nos conectar?
-- 💼 [LinkedIn](https://linkedin.com/in/paulo-henrique-dos-anjos/)
-- 📧 [E-mail](mailto:pborkart@outlook.com)
-- 🌐 [Confira meus repositórios](https://github.com/Borkaart?tab=repositories)
+## 📫 Contact
 
+LinkedIn  
+https://linkedin.com/in/paulo-henrique-dos-anjos
+
+Email  
+pborkart@outlook.com
 ---
 
 > "O código é como humor. Quando você tem que explicar, é ruim." – Cory House
